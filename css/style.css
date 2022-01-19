@@ -14,6 +14,7 @@ body {
   font-family: 'Work Sans', sans-serif;
   background: var(--body-color);
   padding-top: -95px;
+  overflow-x: hidden;
 }
 
 .light {
