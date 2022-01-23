@@ -63,6 +63,15 @@ body {
   --input-border: #e6e6e6;
   --newsliter--liner-gra: linear-gradient(to bottom right, #0055ff, #053697);
   --footer--menu-tit-color: #b2b2b3;
+  --logo: url('https://arun.gbjsolution.com/content/images/2021/05/arun-light-theme-logo.svg');
+  --bg-img-dark: url('../images/moon-regular-24.png');
+  --search-icon: url('../images/search-regular-2.png');
+  --X-remove: url('../images/x-circle-regular-1.png');
+  --icon-tw: url('../images/twitter-logo-2.png');
+  --icon-f: url('../images/facebook-logo-2.png');
+  --icon-git: url('../images/github-logo-2.png');
+  --icon-ins: url('../images/instagram-logo-2.png');
+  --icon-bottom: url('../images/chevron-down-regular-2.png');
 }
 
 .btn {
